@@ -1,0 +1,6 @@
+data/
+hmm_data/
+test_me/
+.ipynb_checkpoints
+*.pyc
+__pycache__/
